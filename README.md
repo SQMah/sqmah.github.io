@@ -1,2 +1,2 @@
-# sqmah.github.io
+# My personal site
 SQ's personal site
